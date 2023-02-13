@@ -1,0 +1,20 @@
+/* CSS Document */
+	body {; background-color:#000000;
+		   background-repeat:no-repeat }
+			
+	h1 { color:#EEEEEE;
+		text-align:center;
+		text-shadow: 0.06em 0.01em 0.1em #CF0A0A; font-size:55px;
+		}
+
+	table, th, td{
+    border:2px solid #ccc;}
+	
+	table{
+		border-collapse:collapse;}
+	
+	tr:hover{
+		background-color:#3F0713;
+		cursor:auto;}
+		
+	.style1 {font-size:35px}
